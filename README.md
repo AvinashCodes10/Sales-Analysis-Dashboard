@@ -1,4 +1,4 @@
-# Sales-Data-Analysis (Interactive  Dashboard created using Tableau)
+# Sales-Analysis-Dashboard (Interactive  Dashboard created using Tableau)
 ## Project Objective
 This Tableau Sales Dashboard tracks key sales metrics, analyzes regional and segment trends, and helps businesses make data-driven decisions to optimize performance and identify growth opportunities
 
