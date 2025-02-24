@@ -36,3 +36,5 @@ This Tableau Sales Dashboard tracks key sales metrics, analyzes regional and seg
 - Sales peaked in August and December, showing strong seasonality
 - Sadie Pawthorne recorded the highest sales among managers
 
+##Coclusion
+- This Tableau Sales Dashboard provides valuable insights into sales growth, regional performance, and key trends. By identifying top-performing segments, peak sales periods, and areas needing improvement, businesses can make data-driven decisions to optimize sales strategies and drive growth
