@@ -28,3 +28,11 @@ This Tableau Sales Dashboard tracks key sales metrics, analyzes regional and seg
 
 ##Dashboard
 ![Screenshot 2025-02-22 194118](https://github.com/user-attachments/assets/9ccc16ca-3dd2-45f0-b237-3a0fec14be54)
+
+##Project Insights
+- Sales increased 20.36% YOY, reaching $733K, while profit grew 14.24% to $93K
+- The Consumer segment generated the highest sales, followed by Corporate
+- The West region led in sales, while the South struggled. Some states performed above the national average, while others underperformed
+- Sales peaked in August and December, showing strong seasonality
+- Sadie Pawthorne recorded the highest sales among managers
+
