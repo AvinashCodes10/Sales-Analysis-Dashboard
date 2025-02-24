@@ -26,5 +26,5 @@ This Tableau Sales Dashboard tracks key sales metrics, analyzes regional and seg
 - Build an interactive Tableau dashboard.
 - Analyze trends and uncover insights.
 
-##DAshboard
+##Dashboard
 ![Screenshot 2025-02-22 194118](https://github.com/user-attachments/assets/9ccc16ca-3dd2-45f0-b237-3a0fec14be54)
