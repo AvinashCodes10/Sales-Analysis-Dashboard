@@ -17,4 +17,4 @@ This Tableau Sales Dashboard tracks key sales metrics, analyzes regional and seg
 - Which states perform above or below the national sales average?
 - How do sales and profit trends vary across different periods?
 
-- <a href=" https://github.com/AvinashCodes10/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-02-22%20194118.png">View dashboard</a>
+- Dashboard Interaction <a href=" https://github.com/AvinashCodes10/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-02-22%20194118.png">View dashboard</a>
