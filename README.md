@@ -19,7 +19,7 @@ This Tableau Sales Dashboard tracks key sales metrics, analyzes regional and seg
 - Dashboard Interaction<a href="https://github.com/AvinashCodes10/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-02-22%20194118.png">View dashboard</a>
 
 ##Process
-- Collect sales data from Excel or SQL.
+- Collect sales data from Excel.
 - Clean & prep the data by fixing errors and formatting it properly.
 - Organize it for smooth analysis.
 - Define KPIs like total sales, profit, and trends.
